@@ -1,0 +1,26 @@
+@import './base.css';
+@import './catppuccin.css';
+
+#app {
+    max-width: 95%;
+    margin: 0 auto;
+    padding: 1rem;
+    font-weight: normal;
+}
+
+a {
+    text-decoration: none;
+    color: var(--ctp-macchiato-base);
+    transition: 0.4s;
+    padding: 3px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    color: var(--ctp-macchiato-text);
+    height: fit-content;
+}
