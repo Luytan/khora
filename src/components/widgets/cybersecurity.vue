@@ -1,3 +1,6 @@
+<!--
+TODO: remove hardcoded values and fetch data from APIs if possible
+-->
 <script setup lang="ts">
   const HTBLabTotal = 459;
   const HTBLabCurrent = 11;
