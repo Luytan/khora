@@ -7,9 +7,12 @@
     <p>📊 GitHub</p>
   </div>
   <div class="content">
-    <!-- Will do later when making some public repo
-    <img alt="github top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luytan&layout=compact&theme=transparent"/>
-    -->
+    <!-- GitHub stats image -->
+    <img
+      class="github-stats"
+      alt="github top languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luytan&layout=compact&theme=transparent"
+    />
     <div>
       <a target="_blank" rel="noopener noreferrer" href="https://github.com/luytan">GitHub Profile</a>
     </div>
